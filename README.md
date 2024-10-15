@@ -1,5 +1,5 @@
 # DLR AMI tutorial
-This repository provides a tutorial on using the Discrete Lehmann Representation [(DLR)](https://libdlr.readthedocs.io/en/v1.0.0/python_examples.html#DLR-Grids)  with Algorithmic Matsubara Integration (AMI) [(AMI)](https://github.com/jpfleblanc/libami) for a simple case involving the Bethe lattice.
+This repository provides a tutorial on using the Discrete Lehmann Representation [(DLR)](https://libdlr.readthedocs.io/en/v1.0.0/python_examples.html#DLR-Grids)  with Algorithmic Matsubara Integration [(AMI)](https://github.com/jpfleblanc/libami) for a simple case involving the Bethe lattice.
 
 The tutorial demonstrates how to use the pole representation of DLR for self-energy calculations of the second-order (bubble) diagram using the spectral function of the Bethe lattice. Additionally, it includes an example of the GF2 self-consistent scheme for second-order self-energy (SE) calculations.
 
